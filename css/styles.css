@@ -1,3 +1,4 @@
 body{
-	background-image: url("wood.png");
+	background-image: url("wood.jpg");
+	background-repeat: no-repeat;
 }
